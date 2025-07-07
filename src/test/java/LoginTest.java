@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import java.time.Duration;
+import java.time.Duration;    /*   @author mustafa */
 
 public class LoginTest {
 
